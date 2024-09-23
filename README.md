@@ -21,10 +21,14 @@ I love designing scalable and secure cloud solutions, building CI/CD pipelines, 
 ---
 
 ## 🛠️ Project
+### 1. [3 tier architecture](https://github.com/Tanuja-0202/Three-tier.git)
+  •	Deployed a 3-tier architecture on AWS, utilizing VPC, EC2 (across 3 AZs), and RDS.
+•	Configured subnets within a custom VPC and monitored infrastructure using CloudWatch.
+•	Set up SNS alerts for critical metrics, ensuring high availability and performance.
 
 ---
 
-## 🌐 Let's Connect
+
 
 
 
